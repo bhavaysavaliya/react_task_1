@@ -7,4 +7,14 @@ cd react_task_1
 npm run dev
 ```
 
-Then visit http://localhost:3000 to view results.
+## OR
+
+If you have docker installed, then run
+```
+docker run -d -p 8000:8000 bhavaysavaliya/react_task_1
+```
+
+Then you can visit the below link to view the results.
+```
+http://localhost:3000
+```
